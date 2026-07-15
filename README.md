@@ -71,4 +71,3 @@ suspicious to a scanner that's never seen it before.
 ## Credit
 
 Original Windows version: [ml3czus](https://github.com/goog-company/ml3czus-autoplayer). Banner
-art: my friend, who is built different.

@@ -17,21 +17,11 @@
 </p>
 
 Paste a sheet, hit play, it types the notes into Roblox for you. This is just the Mac port of
-[ml3czus' Auto-player](https://github.com/goog-company/ml3czus-autoplayer) — same sheets work,
-same notation, I just rebuilt the guts in Electron since the original's AHK core only runs on
-Windows.
+[ml3czus' Auto-player](https://github.com/goog-company/ml3czus-autoplayer)
 
-## How to make sheets / how to use it
+## How to make sheets / Find sheets / how to use it
 
-Same notation as the original, so if you already know it you already know it:
-
-- `[abc]` is a chord — those keys get sent together
-- `-` is a short rest
-- `|`, `/`, `\` are all a longer rest
-- anything else is just a single note
-
-`Key delay` and `Pause delay` can either be set inside the sheet itself (`# Key delay: 40`,
-`# Pause delay: 100`) or overridden from the Options menu in the app.
+<p><a href='https://discord.gg/wjkuw6Wwt6'><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white"></a></p>
 
 Keystrokes go out through macOS's own `System Events`, so there's no driver to install, just an
 Accessibility permission to grant — see below.

@@ -1,20 +1,23 @@
 <p align='center'><img src="assets/banner.png" alt="Roblox Auto-Player banner"></p>
 
+<p align='center'>
+  <strong>Same sheets, same notation, now it actually runs on a Mac.</strong>
+</p>
+
 ***
 
 <!--
-  Swap YOUR_USERNAME/YOUR_REPO once this is pushed, or just delete the whole
-  badges block below if you can't be bothered with shields.io right now.
+  Badge links point at goog-company/Balljiggler-autoplayer.
 -->
 <p align='center'>
-  <a href='https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest'><img alt="Badge" src="https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPO?include_prereleases&sort=date&display_name=release&label=Latest%20release&color=00bb00"></a>
-  <a href='https://github.com/YOUR_USERNAME/YOUR_REPO/releases/'><img alt="Badge" src="https://img.shields.io/github/downloads/YOUR_USERNAME/YOUR_REPO/total?label=Download&color=00bb00"></a>
-  <a href='https://github.com/YOUR_USERNAME/YOUR_REPO/issues'><img alt="Badge" src="https://img.shields.io/github/issues-raw/YOUR_USERNAME/YOUR_REPO?label=Issues&color=yellow"></a>
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/YOUR_USERNAME/YOUR_REPO?label=Commit%20activity">
+  <a href='https://github.com/goog-company/Balljiggler-autoplayer/releases/latest'><img alt="Badge" src="https://img.shields.io/github/v/release/goog-company/Balljiggler-autoplayer?include_prereleases&sort=date&display_name=release&label=Latest%20release&color=00bb00"></a>
+  <a href='https://github.com/goog-company/Balljiggler-autoplayer/releases/'><img alt="Badge" src="https://img.shields.io/github/downloads/goog-company/Balljiggler-autoplayer/total?label=Download&color=00bb00"></a>
+  <a href='https://github.com/goog-company/Balljiggler-autoplayer/issues'><img alt="Badge" src="https://img.shields.io/github/issues-raw/goog-company/Balljiggler-autoplayer?label=Issues&color=yellow"></a>
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/goog-company/Balljiggler-autoplayer?label=Commit%20activity">
 </p>
 <p align='center'>
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social">&nbsp;
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=social">&nbsp;
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/goog-company/Balljiggler-autoplayer?style=social">&nbsp;
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/goog-company/Balljiggler-autoplayer?style=social">&nbsp;
 </p>
 
 Paste a sheet, hit play, it types the notes into Roblox for you. This is just the Mac port of
@@ -69,4 +72,4 @@ never seen it before.
 ## Credit
 
 Original Windows version by [ml3czus](https://github.com/goog-company/ml3czus-autoplayer).
-Banner art by my friend
+Banner art by my friend, who clearly has a future in this.

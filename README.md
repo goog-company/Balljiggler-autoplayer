@@ -1,9 +1,5 @@
 <p align='center'><img src="assets/banner.png" alt="Roblox Auto-Player banner"></p>
 
-<p align='center'>
-  <strong>Same sheets, same notation, now it actually runs on a Mac.</strong>
-</p>
-
 ***
 
 <!--

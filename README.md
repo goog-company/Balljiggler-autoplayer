@@ -73,4 +73,4 @@ never seen it before.
 ## Credit
 
 Original Windows version by [ml3czus](https://github.com/goog-company/ml3czus-autoplayer).
-Banner art by my friend, who clearly has a future in this.
+Banner art by my friend
